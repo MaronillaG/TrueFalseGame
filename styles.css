@@ -1,0 +1,9 @@
+body {
+    position: relative;
+}
+
+#start {
+    position: absolute;
+    top: 70%;
+    left: 10%;
+}
